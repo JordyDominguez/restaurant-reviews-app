@@ -23,7 +23,7 @@ Boot up the app and take it for a spin. Navigate through the app and test it's a
 
 ## What to Expect
 
-The Restaurant Review App site opens an app that is optomized for any device. It also uses a Service Worker to cache data and allow the app to be navigated while offline!
+The Restaurant Review App site opens an app that is optimized for any device. It also uses a Service Worker to cache data and allow the app to be navigated while offline!
 
 ## Built With
 
